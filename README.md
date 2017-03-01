@@ -51,7 +51,7 @@ WO7b2ozymGERouVr2oeY2vGiwW2ZIUlPkLGuX/6mjJd/I6qzZaLNRUXhPM1PyhkX<br />
 TRV0PqIjKPjYkCIdKdhFjqeT7mpm93/duTNtIeLEdLQMJAn9j/pThhn+LCPDA2cI<br />
 9QIDAQAB<br />
 -----END PUBLIC KEY-----<br />
-  * Signiture :(made by my (agent99) private key)<br />
+  * Signiture : (made by my [agent99] private key)<br />
   ufsJoUH/YnZ198mj33rzkCV4jFXDanuPuE+96Tbo6mhLupbU1ixm+9tnHZsHP+bbFRWZ1jTUz3RtRa/TOFP5BP+GzwOcypAD40R1Ws79RHoLfJ5cXp+NXl2xaP1BXvkqkomugkzBfwAHmWKULrGQ/tve9WXHxPnUA/cIil1oh6UV1q6V1p83AMpCVzGUo2T91nP8quSZ9UWoDk1kC7IuevLexwZGTy+sbWNIJjPrGzBlWUz+GSkNgBahkRSOvRdfyBzd9ZMJ1v/RXdUMes8axpkjUQ6bP60lirwMhakbGAIfWxmzpavYRgpHUl24RzN1akRru4UReP1GYmLmrbNPXA==
 
 7\. Agent Messages
