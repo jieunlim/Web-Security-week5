@@ -31,7 +31,7 @@ The following **required** functionality is completed:
   * [x]  Required: Verify the message
   * 1) make signature using agent99 provided private key
   * 2) varify signature with public key from agent99 public key in Apex
-  * [ ]  Required: Include a response message in this README
+  * [x]  Required: Include a response message in this README
   * Code name :<br /> nGRE/nKq5jZGgYY6N/fJtrFS2vQB8CW57ckME8P6yZmnqMV795p2VYqC/jYU/HdwL/cazHw0sgFRVS7EOJqDdGzGFCqJvsFVly5MPWvPdJYhODaJMEWLzSk/nRg/dN62jERx6y9sOaaB65p6xEIGlVuoEBxKNlVO01mG/Mfc9nuHM7Iv9lKg2yrPzyzJ6YewESoH5WoD2fSrDhKgRTHPe6Eub5bL33fYyHokioWrJD237ez5hNV/RQSuEIvs5MEMNWqff5Qs1uT1HzW8/DNJ3M5OISf8CA5WRc7JYmCgHLcbEUD9xgKvT7ScgR+Sq2wKaEkWK/Kbjzo8RHMzevwLAQ==
   * Puclic key :<br />
 -----BEGIN PUBLIC KEY-----<br />
@@ -95,7 +95,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Jieun Lim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
