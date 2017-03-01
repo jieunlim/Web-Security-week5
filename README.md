@@ -32,17 +32,17 @@ The following **required** functionality is completed:
   * 1) make signature using agent99 provided private key
   * 2) varify signature with public key from agent99 public key in Apex
   * [ ]  Required: Include a response message in this README
-  * Code name : nGRE/nKq5jZGgYY6N/fJtrFS2vQB8CW57ckME8P6yZmnqMV795p2VYqC/jYU/HdwL/cazHw0sgFRVS7EOJqDdGzGFCqJvsFVly5MPWvPdJYhODaJMEWLzSk/nRg/dN62jERx6y9sOaaB65p6xEIGlVuoEBxKNlVO01mG/Mfc9nuHM7Iv9lKg2yrPzyzJ6YewESoH5WoD2fSrDhKgRTHPe6Eub5bL33fYyHokioWrJD237ez5hNV/RQSuEIvs5MEMNWqff5Qs1uT1HzW8/DNJ3M5OISf8CA5WRc7JYmCgHLcbEUD9xgKvT7ScgR+Sq2wKaEkWK/Kbjzo8RHMzevwLAQ==
-  * Puclic key :
------BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApSBMVYp5hl5u/JHQM1Pj
-5nK+XtRRolE2NdaUhF7auLyFEZcZVyYimQ9ZGQ6tkjPzO44gBD17A+MU8s1+g3LY
-1nyTa6PF/71W3wvsw4lt/T1qZgwew4kye0zPAVUaKaBLAJb+w5OdT/19nVDuwgWN
-FURwZwyp8w3moC/1BqXC6r5D+1OMv9GEOLvaJG7++u7rGT9ed6mh6Vg4aRzP5Sqc
-WO7b2ozymGERouVr2oeY2vGiwW2ZIUlPkLGuX/6mjJd/I6qzZaLNRUXhPM1PyhkX
-TRV0PqIjKPjYkCIdKdhFjqeT7mpm93/duTNtIeLEdLQMJAn9j/pThhn+LCPDA2cI
-9QIDAQAB
------END PUBLIC KEY-----
+  * Code name :<br /> nGRE/nKq5jZGgYY6N/fJtrFS2vQB8CW57ckME8P6yZmnqMV795p2VYqC/jYU/HdwL/cazHw0sgFRVS7EOJqDdGzGFCqJvsFVly5MPWvPdJYhODaJMEWLzSk/nRg/dN62jERx6y9sOaaB65p6xEIGlVuoEBxKNlVO01mG/Mfc9nuHM7Iv9lKg2yrPzyzJ6YewESoH5WoD2fSrDhKgRTHPe6Eub5bL33fYyHokioWrJD237ez5hNV/RQSuEIvs5MEMNWqff5Qs1uT1HzW8/DNJ3M5OISf8CA5WRc7JYmCgHLcbEUD9xgKvT7ScgR+Sq2wKaEkWK/Kbjzo8RHMzevwLAQ==
+  * Puclic key :<br />
+-----BEGIN PUBLIC KEY-----<br />
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApSBMVYp5hl5u/JHQM1Pj<br />
+5nK+XtRRolE2NdaUhF7auLyFEZcZVyYimQ9ZGQ6tkjPzO44gBD17A+MU8s1+g3LY<br />
+1nyTa6PF/71W3wvsw4lt/T1qZgwew4kye0zPAVUaKaBLAJb+w5OdT/19nVDuwgWN<br />
+FURwZwyp8w3moC/1BqXC6r5D+1OMv9GEOLvaJG7++u7rGT9ed6mh6Vg4aRzP5Sqc<br />
+WO7b2ozymGERouVr2oeY2vGiwW2ZIUlPkLGuX/6mjJd/I6qzZaLNRUXhPM1PyhkX<br />
+TRV0PqIjKPjYkCIdKdhFjqeT7mpm93/duTNtIeLEdLQMJAn9j/pThhn+LCPDA2cI<br />
+9QIDAQAB<br />
+-----END PUBLIC KEY-----<br />
  
 
 7\. Agent Messages
