@@ -27,13 +27,21 @@ The following **required** functionality is completed:
   
 6\. Encrypted Message 2
   * [x]  Required: Decrypt the message
-  * Message : Cannot access APEX from this location. Send new agent codename and public key so I can contact. Encrypt response to protect   codename. Include signature to verify identity and message integrity. -- sydneybristow
+  * Message : Cannot access APEX from this location. Send new agent codename and public key so I can contact. Encrypt response to protect codename. Include signature to verify identity and message integrity. -- sydneybristow
   * [x]  Required: Verify the message
   * 1) make signature using agent99 provided private key
   * 2) varify signature with public key from agent99 public key in Apex
   * [x]  Required: Include a response message in this README
-  * Code name :<br /> nGRE/nKq5jZGgYY6N/fJtrFS2vQB8CW57ckME8P6yZmnqMV795p2VYqC/jYU/HdwL/cazHw0sgFRVS7EOJqDdGzGFCqJvsFVly5MPWvPdJYhODaJMEWLzSk/nRg/dN62jERx6y9sOaaB65p6xEIGlVuoEBxKNlVO01mG/Mfc9nuHM7Iv9lKg2yrPzyzJ6YewESoH5WoD2fSrDhKgRTHPe6Eub5bL33fYyHokioWrJD237ez5hNV/RQSuEIvs5MEMNWqff5Qs1uT1HzW8/DNJ3M5OISf8CA5WRc7JYmCgHLcbEUD9xgKvT7ScgR+Sq2wKaEkWK/Kbjzo8RHMzevwLAQ==
-  * Puclic key :<br />
+  * New agent Code name : (Encrypted with Sydneybristow's puclic key)<br /> 
+  3Pn9te/TBvTgCY2/U1W82XMmX4nxw4sNQf9JUaiowFe<br />
+  TJf9PA7z2o41/kUxkCKhfV2gUkIAR/aV++lkU7wJXuM2G<br />
+  gPOSRwBqE40ofMJQikti84rw8hlNQLR5xTwI29mC/4g0L<br />
+  z/oxX20y5utMwbMLyXdibto00JNLZ0gslMKCrANJHbj0e<br />
+  YTVKQmXcq0jirav9yIPUdtkyvzFiP4HCd3gphUk6z/ta4or<br />
+  uNWa3wi+lVS2UbuugJk2sjJ0XjHxA4vS8VoE2GdM6HzK<br />
+  /FjukxK/DKskWgfIG1h2rrBJgtKuqAGn7IZd+0UrAijylDU/<br />
+  8IaQA0d6XsJmj+bvgPX6f9x1Q==
+  * New agent Puclic key :<br />
 -----BEGIN PUBLIC KEY-----<br />
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApSBMVYp5hl5u/JHQM1Pj<br />
 5nK+XtRRolE2NdaUhF7auLyFEZcZVyYimQ9ZGQ6tkjPzO44gBD17A+MU8s1+g3LY<br />
@@ -43,16 +51,8 @@ WO7b2ozymGERouVr2oeY2vGiwW2ZIUlPkLGuX/6mjJd/I6qzZaLNRUXhPM1PyhkX<br />
 TRV0PqIjKPjYkCIdKdhFjqeT7mpm93/duTNtIeLEdLQMJAn9j/pThhn+LCPDA2cI<br />
 9QIDAQAB<br />
 -----END PUBLIC KEY-----<br />
-  * Signiture :<br />
-HuOF9Wdv40ifpYSJTQztkN21DOaugP2mbetDsVtHEjF0<br />
-YhItLHsTGUtAJDUhR1W/4t+1fJOlVjZi0yLvzeRIkvolyoDb<br />
-ri1xbk+hqn915shCrDR5p9LzMCxBChOrM5TyJMRk5t3z<br />
-9jcixGL9dvBoduvB8cqXRiviH+7kkB1yVgJ6RfIZ0ocON/<br />
-mY/j6iET3XPAGRY22MsA6VoZ8APvr61JUDw2aQeZrRIO<br />
-Z1bf8UYRJjbLGoDr1sCY76BrEqo3NwM+U/tR/i2fw0wd<br />
-MavLLUB9BHsjthsfiFMYyH1J+V1CxvnWS6Z8ypDJAiViX<br />
-Fljkg0aycGhnqutelLbypD9c6dQ==
- 
+  * Signiture :(made by my (agent99) private key)<br />
+  ufsJoUH/YnZ198mj33rzkCV4jFXDanuPuE+96Tbo6mhLupbU1ixm+9tnHZsHP+bbFRWZ1jTUz3RtRa/TOFP5BP+GzwOcypAD40R1Ws79RHoLfJ5cXp+NXl2xaP1BXvkqkomugkzBfwAHmWKULrGQ/tve9WXHxPnUA/cIil1oh6UV1q6V1p83AMpCVzGUo2T91nP8quSZ9UWoDk1kC7IuevLexwZGTy+sbWNIJjPrGzBlWUz+GSkNgBahkRSOvRdfyBzd9ZMJ1v/RXdUMes8axpkjUQ6bP60lirwMhakbGAIfWxmzpavYRgpHUl24RzN1akRru4UReP1GYmLmrbNPXA==
 
 7\. Agent Messages
   * [ ]  Required: Repair the dropbox code
