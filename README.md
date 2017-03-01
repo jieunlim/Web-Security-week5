@@ -28,7 +28,9 @@ The following **required** functionality is completed:
 6\. Encrypted Message 2
   * [x]  Required: Decrypt the message
   * Message : Cannot access APEX from this location. Send new agent codename and public key so I can contact. Encrypt response to protect   codename. Include signature to verify identity and message integrity. -- sydneybristow
-  * [ ]  Required: Verify the message
+  * [x]  Required: Verify the message
+  * 1) make signature using agent99 provided private key
+  * 2) varify signature with public key from agent99 public key in Apex
   * [ ]  Required: Include a response message in this README
 
 7\. Agent Messages
